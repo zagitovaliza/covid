@@ -2,7 +2,7 @@
 name = "parser"
 version = "0.1.0"
 description = ""
-authors = ["Ivan Demin <ivan.demin@raiffeisen.ru>"]
+authors = ["Liza Zagitova <zagitova.liza@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
